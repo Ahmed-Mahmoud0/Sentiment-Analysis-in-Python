@@ -1,4 +1,4 @@
-# Sentiment-Analysis-in-Python
+# Sentiment Analysis in Python
 
 Sentiment analysis is an NLP technique used to determine whether data is positive, negative, or neutral. It’s really helpful for businesses because it helps understand the overall opinions of their customers.
 
