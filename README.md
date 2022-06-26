@@ -17,5 +17,6 @@ Link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-
 
 
 
+## Reference 
 
-Reference: https://towardsdatascience.com/a-beginners-guide-to-text-classification-with-scikit-learn-632357e16f3a
+https://towardsdatascience.com/a-beginners-guide-to-text-classification-with-scikit-learn-632357e16f3a
