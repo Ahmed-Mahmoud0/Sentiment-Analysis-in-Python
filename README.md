@@ -8,7 +8,8 @@ Build a machine learning model that predicts the sentiment of a movie review.
 
 ## Dataset
 
-IMDB dataset of 50k movie reviews
+IMDB dataset of 50k movie reviews.
+
 Link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 
